@@ -1,3 +1,7 @@
+# Render-এ Python 3.11 ব্যবহার করতে
+python-version==3.11
+
+# প্রয়োজনীয় প্যাকেজ
 python-telegram-bot==20.7
 asyncpg==0.29.0
 sqlalchemy==2.0.23
